@@ -1,0 +1,18 @@
+input {
+  display:block;
+  width:10rem;
+}
+
+.submit{
+  width:5rem;
+}
+
+body{
+  text-align: center;
+}
+
+#data-form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
